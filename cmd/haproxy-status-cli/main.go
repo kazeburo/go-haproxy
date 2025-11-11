@@ -10,7 +10,7 @@ import (
 	"time"
 
 	"github.com/jessevdk/go-flags"
-	"github.com/kazeburo/haproxy"
+	"github.com/kazeburo/go-haproxy"
 )
 
 var version string
