@@ -1,4 +1,4 @@
-module github.com/kazeburo/haproxy
+module github.com/kazeburo/go-haproxy
 
 go 1.25.0
 
