@@ -1,5 +1,12 @@
 # Changelog
 
+## [v0.0.4](https://github.com/kazeburo/go-haproxy/compare/v0.0.3...v0.0.4) - 2026-10-31
+
+- ci: bump Songmu/tagpr from 1.21.0 to 1.21.1 in the dependencies group by @dependabot[bot] in https://github.com/kazeburo/go-haproxy/pull/24
+- go: bump golang.org/x/sys from 0.48.0 to 0.49.0 in the dependencies group by @dependabot[bot] in https://github.com/kazeburo/go-haproxy/pull/25
+- ci: bump the dependencies group with 2 updates by @dependabot[bot] in https://github.com/kazeburo/go-haproxy/pull/27
+- ci: bump Songmu/tagpr from 1.21.3 to 1.21.4 in the dependencies group by @dependabot[bot] in https://github.com/kazeburo/go-haproxy/pull/28
+
 ## [v0.0.3](https://github.com/kazeburo/go-haproxy/compare/v0.0.2...v0.0.3) - 2026-10-04
 
 - Create dependabot.yml by @kazeburo in https://github.com/kazeburo/go-haproxy/pull/4
